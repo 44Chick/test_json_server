@@ -2,48 +2,39 @@
   "contents": [
     {
       "id": 1,
-      "content_title": "title 1",
-      "content_body": "Body 1 ",
-      "content_author": "author 1",
-      "content_genre": "book",
-      "content_link": "https://www.naver.com/",
-      "content_date": "yyyy-mm-dd"
+      "title": "게시글",
+      "content": "내용",
+      "userid": "bin1234",
+      "nickname": "쿠크루삥뽕",
+      "createdAt": "2022-12-01T12:56:36.821474",
+      "modifiedAt": "2022-12-01T12:56:36.821474"
     },
     {
       "id": 2,
-      "content_title": "title 2",
-      "content_body": "Body 2 ",
-      "content_author": "author 2",
-      "content_genre": "book",
-      "content_link": "https://www.naver.com/",
-      "content_date": "yyyy-mm-dd"
+      "title": "게시글",
+      "content": "내용",
+      "userid": "bin1234",
+      "nickname": "쿠크루삥뽕",
+      "createdAt": "2022-12-01T12:56:36.821474",
+      "modifiedAt": "2022-12-01T12:56:36.821474"
     },
     {
       "id": 3,
-      "content_title": "title 3",
-      "content_body": "Body 3 ",
-      "content_author": "author 3",
-      "content_genre": "album",
-      "content_link": "https://www.naver.com/",
-      "content_date": "yyyy-mm-dd"
+      "title": "게시글",
+      "content": "내용",
+      "userid": "bin1234",
+      "nickname": "쿠크루삥뽕",
+      "createdAt": "2022-12-01T12:56:36.821474",
+      "modifiedAt": "2022-12-01T12:56:36.821474"
     },
     {
       "id": 4,
-      "content_title": "title 4",
-      "content_body": "Body 4 ",
-      "content_author": "author 4",
-      "content_genre": "movie",
-      "content_link": "https://www.naver.com/",
-      "content_date": "yyyy-mm-dd"
-    },
-    {
-      "id": 5,
-      "content_title": "title 5",
-      "content_body": "Body 5 ",
-      "content_author": "author 5",
-      "content_genre": "etc",
-      "content_link": "https://www.naver.com/",
-      "content_date": "yyyy-mm-dd"
+      "title": "게시글",
+      "content": "내용",
+      "userid": "bin1234",
+      "nickname": "쿠크루삥뽕",
+      "createdAt": "2022-12-01T12:56:36.821474",
+      "modifiedAt": "2022-12-01T12:56:36.821474"
     }
   ],
   "replys": [
