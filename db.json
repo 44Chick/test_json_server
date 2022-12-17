@@ -1,6 +1,7 @@
 {
   "contents": [
     {
+<<<<<<< Updated upstream
       "id": "1",
       "title": "게시글",
       "content": "내용",
@@ -20,6 +21,9 @@
     },
     {
       "id": "3",
+=======
+      "id": 3,
+>>>>>>> Stashed changes
       "title": "게시글",
       "content": "내용",
       "userid": "bin1234",
