@@ -1,7 +1,7 @@
 {
   "contents": [
     {
-      "id": 1,
+      "id": "1",
       "title": "게시글",
       "content": "내용",
       "userid": "bin1234",
@@ -10,7 +10,7 @@
       "modifiedAt": "2022-12-01T12:56:36.821474"
     },
     {
-      "id": 2,
+      "id": "2",
       "title": "게시글",
       "content": "내용",
       "userid": "bin1234",
@@ -19,7 +19,7 @@
       "modifiedAt": "2022-12-01T12:56:36.821474"
     },
     {
-      "id": 3,
+      "id": "3",
       "title": "게시글",
       "content": "내용",
       "userid": "bin1234",
@@ -28,7 +28,7 @@
       "modifiedAt": "2022-12-01T12:56:36.821474"
     },
     {
-      "id": 4,
+      "id": "4",
       "title": "게시글",
       "content": "내용",
       "userid": "bin1234",
@@ -37,36 +37,51 @@
       "modifiedAt": "2022-12-01T12:56:36.821474"
     }
   ],
-  "replys": [
+  "comments": [
     {
-      "id": 1,
-      "reply_body": "reply 1",
-      "reply_date": "yyyy-mm-dd",
-      "content_id": 1
+      "id": "1",
+      "content": "댓글2",
+      "userid": "bin1234",
+      "nickname": "쿠크루삥뽕",
+      "createdAt": "2022-12-01T12:56:36.821474",
+      "modifiedAt": "2022-12-01T12:56:36.821474",
+      "contentId": "1"
     },
     {
-      "id": 2,
-      "reply_body": "reply 2",
-      "reply_date": "yyyy-mm-dd",
-      "content_id": 1
+      "id": "2",
+      "content": "댓글3",
+      "userid": "bin1234",
+      "nickname": "쿠크루삥뽕",
+      "createdAt": "2022-12-01T12:56:36.821474",
+      "modifiedAt": "2022-12-01T12:56:36.821474",
+      "contentId": "1"
     },
     {
-      "id": 3,
-      "reply_body": "reply 3",
-      "reply_date": "yyyy-mm-dd",
-      "content_id": 3
+      "id": "3",
+      "content": "댓글4",
+      "userid": "bin1234",
+      "nickname": "쿠크루삥뽕",
+      "createdAt": "2022-12-01T12:56:36.821474",
+      "modifiedAt": "2022-12-01T12:56:36.821474",
+      "contentId": "3"
     },
     {
-      "id": 4,
-      "reply_body": "reply 4",
-      "reply_date": "yyyy-mm-dd",
-      "content_id": 1
+      "id": "4",
+      "content": "댓글5",
+      "userid": "bin1234",
+      "nickname": "쿠크루삥뽕",
+      "createdAt": "2022-12-01T12:56:36.821474",
+      "modifiedAt": "2022-12-01T12:56:36.821474",
+      "contentId": "1"
     },
     {
-      "id": 5,
-      "reply_body": "reply 5",
-      "reply_date": "yyyy-mm-dd",
-      "content_id": 3
+      "id": "5",
+      "content": "댓글6",
+      "userid": "bin1234",
+      "nickname": "쿠크루삥뽕",
+      "createdAt": "2022-12-01T12:56:36.821474",
+      "modifiedAt": "2022-12-01T12:56:36.821474",
+      "contentId": "3"
     }
   ]
 }
