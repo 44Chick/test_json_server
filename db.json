@@ -1,15 +1,6 @@
 {
   "contents": [
     {
-      "id": "1",
-      "title": "게시글",
-      "content": "내용",
-      "userid": "bin1234",
-      "nickname": "쿠크루삥뽕",
-      "createdAt": "2022-12-01T12:56:36.821474",
-      "modifiedAt": "2022-12-01T12:56:36.821474"
-    },
-    {
       "id": "2",
       "title": "게시글",
       "content": "내용",
@@ -39,24 +30,6 @@
   ],
   "comments": [
     {
-      "id": "1",
-      "content": "댓글2",
-      "userid": "bin1234",
-      "nickname": "쿠크루삥뽕",
-      "createdAt": "2022-12-01T12:56:36.821474",
-      "modifiedAt": "2022-12-01T12:56:36.821474",
-      "contentId": "1"
-    },
-    {
-      "id": "2",
-      "content": "댓글3",
-      "userid": "bin1234",
-      "nickname": "쿠크루삥뽕",
-      "createdAt": "2022-12-01T12:56:36.821474",
-      "modifiedAt": "2022-12-01T12:56:36.821474",
-      "contentId": "1"
-    },
-    {
       "id": "3",
       "content": "댓글4",
       "userid": "bin1234",
@@ -66,15 +39,6 @@
       "contentId": "3"
     },
     {
-      "id": "4",
-      "content": "댓글5",
-      "userid": "bin1234",
-      "nickname": "쿠크루삥뽕",
-      "createdAt": "2022-12-01T12:56:36.821474",
-      "modifiedAt": "2022-12-01T12:56:36.821474",
-      "contentId": "1"
-    },
-    {
       "id": "5",
       "content": "댓글6",
       "userid": "bin1234",
@@ -82,6 +46,55 @@
       "createdAt": "2022-12-01T12:56:36.821474",
       "modifiedAt": "2022-12-01T12:56:36.821474",
       "contentId": "3"
+    },
+    {
+      "content": "Test",
+      "contentId": "4",
+      "id": "h9vi3yF"
+    }
+  ],
+  "signup": [
+    {
+      "id": "1",
+      "userid": "idid@idid.idid",
+      "nickname": "json-server",
+      "password": "json-server를 배워봅시다."
+    },
+    {
+      "userid": "123123@naver.com",
+      "nickname": "qeqwe131",
+      "password": "qq11",
+      "id": "yCEHs8R"
+    },
+    {
+      "userid": "123123@naver.com",
+      "nickname": "111",
+      "password": "11q",
+      "id": "8rAnIW5"
+    },
+    {
+      "userid": "123123@naver.com",
+      "nickname": "12313",
+      "password": "12414",
+      "id": "j9JswVq"
+    },
+    {
+      "userid": "vsdf@naver.com",
+      "nickname": "fsdif12",
+      "password": "dndb@5566",
+      "id": "y3qTTkJ"
+    },
+    {
+      "userid": "sdf@naver.com",
+      "nickname": "flsdfi13",
+      "password": "dndb@5566",
+      "id": "jjPtIRc"
+    },
+    {
+      "userid": "vlfx@nvaer.com",
+      "nickname": "fsdf1123",
+      "password": "dndb@5566",
+      "id": "hQeeGG7"
     }
   ]
 }
