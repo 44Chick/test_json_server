@@ -1,100 +1,26 @@
 {
-  "contents": [
-    {
-      "id": "2",
-      "title": "게시글",
-      "content": "내용",
-      "userid": "bin1234",
-      "nickname": "쿠크루삥뽕",
-      "createdAt": "2022-12-01T12:56:36.821474",
-      "modifiedAt": "2022-12-01T12:56:36.821474"
-    },
-    {
-      "id": "3",
-      "title": "게시글",
-      "content": "내용",
-      "userid": "bin1234",
-      "nickname": "쿠크루삥뽕",
-      "createdAt": "2022-12-01T12:56:36.821474",
-      "modifiedAt": "2022-12-01T12:56:36.821474"
-    },
-    {
-      "id": "4",
-      "title": "게시글",
-      "content": "내용",
-      "userid": "bin1234",
-      "nickname": "쿠크루삥뽕",
-      "createdAt": "2022-12-01T12:56:36.821474",
-      "modifiedAt": "2022-12-01T12:56:36.821474"
-    }
-  ],
-  "comments": [
-    {
-      "id": "3",
-      "content": "댓글4",
-      "userid": "bin1234",
-      "nickname": "쿠크루삥뽕",
-      "createdAt": "2022-12-01T12:56:36.821474",
-      "modifiedAt": "2022-12-01T12:56:36.821474",
-      "contentId": "3"
-    },
-    {
-      "id": "5",
-      "content": "댓글6",
-      "userid": "bin1234",
-      "nickname": "쿠크루삥뽕",
-      "createdAt": "2022-12-01T12:56:36.821474",
-      "modifiedAt": "2022-12-01T12:56:36.821474",
-      "contentId": "3"
-    },
-    {
-      "content": "Test",
-      "contentId": "4",
-      "id": "h9vi3yF"
-    }
-  ],
-  "signup": [
-    {
-      "id": "1",
-      "userid": "idid@idid.idid",
-      "nickname": "json-server",
-      "password": "json-server를 배워봅시다."
-    },
-    {
-      "userid": "123123@naver.com",
-      "nickname": "qeqwe131",
-      "password": "qq11",
-      "id": "yCEHs8R"
-    },
-    {
-      "userid": "123123@naver.com",
-      "nickname": "111",
-      "password": "11q",
-      "id": "8rAnIW5"
-    },
-    {
-      "userid": "123123@naver.com",
-      "nickname": "12313",
-      "password": "12414",
-      "id": "j9JswVq"
-    },
-    {
-      "userid": "vsdf@naver.com",
-      "nickname": "fsdif12",
-      "password": "dndb@5566",
-      "id": "y3qTTkJ"
-    },
-    {
-      "userid": "sdf@naver.com",
-      "nickname": "flsdfi13",
-      "password": "dndb@5566",
-      "id": "jjPtIRc"
-    },
-    {
-      "userid": "vlfx@nvaer.com",
-      "nickname": "fsdf1123",
-      "password": "dndb@5566",
-      "id": "hQeeGG7"
-    }
-  ]
+	"data": [
+		{
+			"id": "2",
+			"category": "게임",
+			"title": "프로젝트 이름",
+			"summary": "프로젝트 간단 소개",
+			"nickname": "프로젝트 진행자",
+			"totalSupport": "1700000",
+			"percent": "18", 
+			"endDate" : "2023-10-01" ,
+			"projectLike": "false"
+		},
+		{
+			"id": "3",
+			"category": "게임",
+			"title": "프로젝트 이름",
+			"summary": "프로젝트 간단 소개",
+			"nickname": "프로젝트 진행자",
+			"totalSupport": "90000000",
+			"percent": "71",
+			"endDate" : "2023-01-11",
+			"projectLike": "true"
+		}
+	]
 }
